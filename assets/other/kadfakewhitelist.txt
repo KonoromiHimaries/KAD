@@ -23,6 +23,7 @@
 @@neon24.pl
 @@newsweb.pl
 @@odpowiedzialni-rodzice.pl
+@@oneto.pl
 @@parezja.pl
 @@paulinajanowicz.pl
 @@pikio.pl
@@ -42,6 +43,8 @@
 @@wolnosc24.pl
 @@wprawo.pl
 @@wsensie.pl
+@@wsieci24.pl
+@@wyborcza24.pl
 @@www.meganiusy.com
 @@www.odkrywamyzakryte.com
 @@www.witnatura.pl
